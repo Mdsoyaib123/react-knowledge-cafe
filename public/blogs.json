@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Title": "The Secret Garden",
+      "Cover": "https://i.ibb.co/Hgj36fD/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "Author": "Jane Doe",
+      "Author_img": "https://i.ibb.co/zbKpZTX/flirty-young-female-student-reading-book-table.jpg",
+      "Posted_Date": "September 7, 2023",
+      "Reading_Time":12,
+      "Hashtag": "#Classics #Gardening"
+    },
+    {
+      "ID": 67890,
+      "Title": "Galactic Adventures",
+      "Cover": "https://i.ibb.co/zJyHwsb/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+      "Author": "John Smith",
+      "Author_img": "https://i.ibb.co/svx73Ts/high-angle-woman-grenehouse-writing.jpg",
+      "Posted_Date": "August 25, 2023",
+      "Reading_Time": 18,
+      "Hashtag": "#ScienceFiction #Space"
+    },
+    {
+      "ID": 24680,
+      "Title": "Cooking Delights",
+      "Cover": "https://i.ibb.co/c2xVC27/domenico-loia-h-GV2-Tf-Oh0ns-unsplash.jpg",
+      "Author": "Emily Green",
+      "Author_img": "https://i.ibb.co/MPqpn71/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "Posted_Date": "September 3, 2023",
+      "Reading_Time": 10,
+      "Hashtag": "#Cooking #Recipes"
+    },
+    {
+      "ID": 13579,
+      "Title": "The Mysterious Case",
+      "Cover": "https://i.ibb.co/bRSjbzP/kaitlyn-baker-v-ZJd-Yl5-JVXY-unsplash.jpg",
+      "Author": "David Black",
+      "Author_img": "https://i.ibb.co/5xDq9kT/marcos-paulo-prado-g-Kq-Iv-UBsx-Ec-unsplash.jpg",
+      "Posted_Date": "September 12, 2023",
+      "Reading_Time": 15,
+      "Hashtag": "#Mystery #Detective"
+    },
+    {
+      "ID": 54321,
+      "Title": "Traveler's Diary",
+      "Cover": "https://i.ibb.co/7tXMRFQ/thought-catalog-505eect-W54k-unsplash.jpg",
+      "Author": "Sarah Brown",
+      "Author_img": "https://i.ibb.co/z8RX56Z/darius-bashar-D6cgen-SS5-NY-unsplash-1.jpg",
+      "Posted_Date": "August 30, 2023",
+      "Reading_Time": 20,
+      "Hashtag": "#Travel #Adventure"
+    }
+  ]
+  
